@@ -95,26 +95,26 @@ header{
 }
 
 .gallery .gallery-img-1{
-    background-image: url('../img/gallery-1.jpeg');
+    background-image: url('gallery-1.jpeg');
      
 }
 .gallery .gallery-img-2{
-    background-image: url('../img/gallery-2.jpeg');
+    background-image: url('gallery-2.jpeg');
 
 }
 .gallery .gallery-img-3{
-    background-image: url('../img/gallery-3.jpeg');
+    background-image: url('gallery-3.jpeg');
 
 }
 .gallery .gallery-img-4{
-    background-image: url('../img/gallery-4.jpeg');
+    background-image: url('gallery-4.jpeg');
 
 }
 .gallery .gallery-img-5{
-    background-image: url('../img/gallery-5.jpeg');
+    background-image: url('gallery-5.jpeg');
 }
 .gallery .gallery-img-6{
-    background-image: url('../img/gallery-6.jpeg');
+    background-image: url('gallery-6.jpeg');
     
 }
 .coming-now{
@@ -201,16 +201,16 @@ header{
      
 }
 .spring-img-1{
-    background-image: url('../img/slide-1.jpg');
+    background-image: url('slide-1.jpg');
 }
 .spring-img-2{
-    background-image: url('../img/slide-2-1.jpg');
+    background-image: url('slide-2-1.jpg');
 }
 .spring-img-3{
-    background-image: url('../img/slide-3.jpg');
+    background-image: url('slide-3.jpg');
 }
 .spring-img-4 {
-    background-image: url('../img/slide-4.jpg');
+    background-image: url('slide-4.jpg');
 }
 .arrow{
   text-align: center;
@@ -271,7 +271,7 @@ header{
 
 }
 .subscribe-img-container{
-    background-image: url('../img/subscribe.jpeg');
+    background-image: url('subscribe.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
