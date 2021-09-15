@@ -42,7 +42,7 @@ header{
     align-items: flex-end;
     color: white;
     padding: 60px;
-    background-image: url('../img/banner.jpeg');
+    background-image: url('banner.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 
